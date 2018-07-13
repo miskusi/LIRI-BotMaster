@@ -1,0 +1,16 @@
+{
+  "name": "liri-bot-master",
+  "version": "1.0.0",
+  "description": "LIRI is a Language Interpretation and Recognition Interface. It will take in commands through the node app and gives you back data.",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  }
+}
